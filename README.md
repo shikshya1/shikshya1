@@ -6,7 +6,7 @@
 
 - I welcome you to join me on a learning journey! Follow me on [GitHub](https://github.com/shikshya1) and [LinkedIn](https://linkedin.com/in/shikshya1).
 
-- You can find my data science portfolio [Portfolio](https://shikshya1.github.io/portfolio/).
+- You can find my data science [Portfolio](https://shikshya1.github.io/portfolio/).
 
 
 
@@ -30,7 +30,7 @@
 
 ___
 <a name="projects"></a>
-## Projects ::round_pushpin::
+## Projects :round_pushpin:
 | Title | Blog | Repo |
 | --- | --- | --- |
 | Customer segmentation of retail dataset using kmeans clustering algorithm | [:link:](https://shikshya1.github.io/portfolio/projects/customer_segmentation/) | [:link:](https://github.com/shikshya1/projects/tree/main/clustering) |
@@ -51,7 +51,7 @@ ___
     
 ___
 <a name="ml-basics"></a>
-## ML Basics ::brain::
+## ML Basics :brain:
 | Title | Blog | Repo |
 | --- | --- | --- |
 | t-SNE | [:link:](https://shikshya1.github.io/portfolio/ml/project-2/) | [:link:](https://github.com/shikshya1/ML_Basics/tree/main/t-sne) |
