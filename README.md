@@ -1,13 +1,10 @@
-## 👋 Hello, I'm Shikshya Dahal (Data Scientist)
-
-- Thanks for popping by!
+## 👋 Hello, I'm Shikshya Dahal. Thanks for popping by!
 
 - An avid learner who enjoys solving meaningful problems with data and technology while having fun at the same time. 
 
 - I welcome you to join me on a learning journey! Follow me on [GitHub](https://github.com/shikshya1) and [LinkedIn](https://linkedin.com/in/shikshya1).
 
-- You can find my data science [Portfolio](https://shikshya1.github.io/portfolio/).
-
+- You can find my portfolio by following this [link](https://shikshya1.github.io/portfolio/).
 
 
 <h3> How to reach me </h3>
