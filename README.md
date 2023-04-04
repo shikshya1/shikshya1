@@ -73,6 +73,5 @@ ___
 | List of monarchs in Nepal throughout History | - | [:link:](https://public.tableau.com/app/profile/shikshya4995/viz/monarchy-timeline/Dashboard1) |
 | Ed Sheeran's Youtube View Count Statistics  | - | [:link:](https://public.tableau.com/app/profile/shikshya4995/viz/Ed-Sheeran-Youtube-analysis/Dashboard1) |
 | Sales Data analysis | - | [:link:](https://public.tableau.com/app/profile/shikshya4995/viz/Salesdata_16731737769710/Dashboard5) |
-| Sales Data analysis | - | [:link:](https://public.tableau.com/app/profile/shikshya4995/viz/Salesdata_16731737769710/Dashboard5) |
 | Visualization of Co2 emission dataset | - | [:link:](https://public.tableau.com/app/profile/shikshya4995/viz/Co2emissiondataset/Dashboard1) |
 | Trump's tweet analysis | - | [:link:](https://public.tableau.com/app/profile/shikshya4995/viz/trumpstweetanalysis/tweetanalysis) |
