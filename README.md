@@ -26,6 +26,14 @@
 ___
 <a name="projects"></a>
 ## Projects :round_pushpin:
+
+### LLM :round_pushpin:
+| Title | Blog | Repo |
+| --- | --- | --- |
+| Conversational Bot (LangChain-RAG-FAISS-GPT-3.5) | [:link:](#) | [:link:](https://github.com/shikshya1/NLP/tree/main/llms/LangChain-RAG-FAISS-LLM-Conversational-AI) |
+| AI research agent (Langchain + GPT-3.5) | [:link:](#) | [:link:](https://github.com/shikshya1/NLP/tree/main/llms/AI%20research%20agent%20(Langchain%20%2B%20GPT)) |
+
+### Miscellaneous :round_pushpin:
 | Title | Blog | Repo |
 | --- | --- | --- |
 | Customer segmentation of retail dataset using kmeans clustering algorithm | [:link:](https://shikshya1.github.io/portfolio/projects/customer_segmentation/) | [:link:](https://github.com/shikshya1/projects/tree/main/clustering) |
