@@ -32,6 +32,7 @@ ___
 | --- | --- | --- |
 | Conversational Bot (LangChain-RAG-FAISS-GPT-3.5) | - | [:link:](https://github.com/shikshya1/NLP/tree/main/llms/LangChain-RAG-FAISS-LLM-Conversational-AI) |
 | AI research agent (Langchain + GPT-3.5) | - | [:link:](https://github.com/shikshya1/NLP/tree/main/llms/AI%20research%20agent%20(Langchain%20%2B%20GPT)) |
+| Fine-tuning Llama2-7b-chat using Gradient | - | [:link:](https://github.com/shikshya1/NLP/blob/main/llms/llama-2/Fine_tuning_Llama2_7b_chat_using_Gradient.ipynb) |
 
 ### Miscellaneous :round_pushpin:
 | Title | Blog | Repo |
